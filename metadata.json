@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Deal Support Intake",
+  "description": "Wireless Deal Support & Offer House Intake with AI Agent Jane",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
